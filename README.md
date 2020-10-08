@@ -1,9 +1,7 @@
 # WEB1
-<!DOCTYPE HTML>
 <html>
 <head>
 <title>명언 저장소</title>
-<meta charset="utf-8"
 </head>
 <body>
 <h1>10월 2째주 명언</h1>
